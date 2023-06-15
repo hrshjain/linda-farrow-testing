@@ -1,0 +1,51 @@
+[
+    {
+        "name": "CHRYSLER OPTICAL A D-FRAME IN TORTOISESHELL",
+        "shortDescription": "Optical Lens in a TortoiseshellFrame",
+        "price": "375",
+        "description": "Inspired by the clean lines of architecture, these sculpted D-frame optical glasses from the LINDA FARROW Linear collection are an everyday essential. The style, hewn from rich tortoise shell acetate, is complemented by custom engineered hinges and adjustable nose pads finished with 22 carat yellow gold plating. Discreet logo details are applied to the top of the frame and at the hinge. This frame has been specifically designed with curved temples for an Asian fit. Also available in European fitting.",
+        "details": [
+            "100% UV protected soild lenses",
+            "Acetate frame with acetate temples",
+            "Made in Japan",
+            "sku:LF43AC2OPT"
+        ],
+        "sizeAndFit": [
+            "53mm lens width",
+            "20mm bridge width",
+            "145mm temple length"
+        ],
+        "colors": [
+            {
+                "link": "https://us.lindafarrow.com/products/chrysler-optical-a-d-frame-in-black",
+                "name": "Chrysler Optical A D-Frame in Black",
+                "frameColor": null,
+                "lensColor": null
+            },
+            {
+                "link": "https://us.lindafarrow.com/products/chrysler-optical-a-d-frame-in-clear",
+                "name": "Chrysler Optical A D-Frame in Clear",
+                "frameColor": "",
+                "lensColor": ""
+            },
+            {
+                "link": "https://us.lindafarrow.com/products/mens-chrysler-optical-a-d-frame-in-clear",
+                "name": "Chrysler Optical A D-Frame in Clear (Men's)",
+                "frameColor": "black",
+                "lensColor": "grey"
+            },
+            {
+                "link": "https://us.lindafarrow.com/products/chrysler-optical-a-d-frame-in-clear-mens",
+                "name": "Chrysler Optical A D-Frame in Clear (Men's)",
+                "frameColor": "black",
+                "lensColor": "grey"
+            },
+            {
+                "link": "https://us.lindafarrow.com/products/chrysler-optical-a-d-frame-in-tortoiseshell",
+                "name": "Chrysler Optical A D-Frame in Tortoiseshell",
+                "frameColor": "black",
+                "lensColor": "grey"
+            }
+        ]
+    }
+]
