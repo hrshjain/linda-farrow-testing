@@ -1,6 +1,6 @@
 [
     {
-        "name": "CHRYSLER OPTICAL A D-FRAME IN TORTOISESHELL",
+        "title": "CHRYSLER OPTICAL A D-FRAME IN TORTOISESHELL",
         "shortDescription": "Optical Lens in a TortoiseshellFrame",
         "price": "375",
         "description": "Inspired by the clean lines of architecture, these sculpted D-frame optical glasses from the LINDA FARROW Linear collection are an everyday essential. The style, hewn from rich tortoise shell acetate, is complemented by custom engineered hinges and adjustable nose pads finished with 22 carat yellow gold plating. Discreet logo details are applied to the top of the frame and at the hinge. This frame has been specifically designed with curved temples for an Asian fit. Also available in European fitting.",
@@ -46,6 +46,11 @@
                 "frameColor": "black",
                 "lensColor": "grey"
             }
+        ],
+        "imageLinks": [
+            "//cdn.shopify.com/s/files/1/0054/1655/0471/products/LF43C2OPT_89112000x2000_5d38f63d-c75f-4b5e-8b93-bed15048c883_720x.jpg?v=1594210261",
+            "//cdn.shopify.com/s/files/1/0054/1655/0471/products/LF43C2OPT_4_e2e3ed58-dce0-4781-8f41-a0e8b0f11d2e_720x.jpg?v=1594210261",
+            ""
         ]
     }
 ]
